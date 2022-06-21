@@ -34,4 +34,4 @@ Feel free to use any kind of database to store the milestones. It is also allowe
 
 ## Questions
 
-Contact me michael.palmer@jaemacom.de
+Contact me magelan@magelan-pentesting.de
