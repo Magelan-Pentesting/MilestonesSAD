@@ -2,7 +2,7 @@
 
 ## The Project
 
-Please create a small and light wight application to handle, insert and update milestones. The frontend should have a very small interface to add and update milestones. And a part to view them in a list with start and end date.
+Please create a small and light wight application to handle, insert and update milestones. The frontend should have a very small interface to add and update milestones. And a part to view them in a list with start and end date. In the backend, a MongoDB will run in a Docker under a .netCore framework.
 
 ### The add/update form
 
